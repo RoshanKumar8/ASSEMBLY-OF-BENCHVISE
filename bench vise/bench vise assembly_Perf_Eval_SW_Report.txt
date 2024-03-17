@@ -1,0 +1,6 @@
+Instance of the following were suppressed or opened from new location when this file was opened
+
+File	Reason	
+D:\ramsbottom spring\body.SLDPRT	The internal ID does not match
+D:\ramsbottom spring\washer.SLDPRT	The internal ID does not match
+
